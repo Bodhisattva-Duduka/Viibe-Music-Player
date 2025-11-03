@@ -1,0 +1,186 @@
+[
+    {
+        "name" : "Telugu songs",
+        "poster" : "Telugu songs/Telugu songs Cover.jpg",
+        "songs" : [
+            {
+                "title" : "Inkem Inkem",
+                "location" : "Telugu songs/Inkem Inkem Full Video Song  Vijay Devarakonda, Rashmika Mandanna  Geetha Govindam  Sid Sriram LPeZO.mp3"
+            },
+            {
+                "title" : "Choosi Chudangane",
+                "location" : "Telugu songs/Choosi Chudangane Full Video Song ( Edited Version)  Chalo Movie  Naga Shaurya, Rashmika EOjM6oy4Q_Q.mp3"
+            },
+            {
+                "title" : "Chuttamalle - Devara",
+                "location" : "Telugu songs/Full Video Chuttamalle - Devara  NTR  Janhvi Kapoor  Anirudh  Shilpa Rao  Koratala Siva GWNrPJyRTcA.mp3"
+            },
+            {
+                "title" : "Inthandham",
+                "location" : "Telugu songs/Inthandham Video Song - Sita Ramam (Telugu)  Dulquer  Mrunal  Vishal  Hanu Raghavapudi dOKQeqGNJwY.mp3"
+            },
+            {
+                "title": "Mate Vinadhuga",
+                "location": "Telugu songs/Maate Vinadhuga Full Video Song  Taxiwaala Movie  Vijay Deverakonda, Priyanka  Sid Sriram kca0cG9fiQ.mp3"
+            },
+            {
+                "title": "Penviti",
+                "location": "Telugu songs/Peniviti - Full Video  Aravindha Sametha  Jr. NTR, Pooja Hegde  Thaman S 4oMO8IYwOos.mp3"
+            },
+            {
+                "title": "Samajavaragamana",
+                "location": "Telugu songs/Samajavaragamana Video Song (4K) (Telugu)  AlaVaikunthapurramuloo  Allu Arjun  Trivikram  Thaman OCg.mp3"
+            },
+            {
+                "title": "The Life of Ram",
+                "location": "Telugu songs/The Life Of Ram Video Song (Telugu)  Jaanu Video Songs  Sharwanand  Samantha  Govind Vasantha 2a34Xy.mp3"
+            },
+            {
+                "title": "Urike Urike",
+                "location": "Telugu songs/Urike Urike - Video Song  HIT 2  Adivi Sesh  Meenakshi  MM Sreelekha  Sid Sriram A3Im3P0--aE.mp3"
+            },
+            {
+                "title": "Yenti Yenti",
+                "location": "Telugu songs/Yenti Yenti Full Video Song  Geetha Govindam Songs  Vijay Devarakonda, Rashmika Mandanna LOZNKZfiFUw.mp3"
+            }
+        ]
+    },
+    {
+        "name": "Bollywood songs",
+        "poster": "Bollywood songs/Bollywood-songs-cover.jpg",
+        "songs": [
+            {
+                "title": "AGAR TUM SAATH HO",
+                "location": "Bollywood songs/AGAR TUM SAATH HO Full VIDEO song  Tamasha  Ranbir Kapoor, Deepika Padukone  T-Series xRb8hxwN5zc.mp3"
+            },
+            {
+                "title": "Anuv Jain - HUSN",
+                "location": "Bollywood songs/Anuv Jain - HUSN (Official Video) gJLVTKhTnog.mp3"
+            },
+            {
+                "title": "Anuv Jain - TUJHE YAAD",
+                "location": "Bollywood songs/Anuv Jain - JO TUM MERE HO (Official Video) ilNt2bikxDI.mp3"
+            },
+            {
+                "title": "Heeriye",
+                "location": "Bollywood songs/Heeriye (Official Video) Jasleen Royal ft Arijit Singh Dulquer Salmaan Aditya Sharma Taani Tanvir RL.mp3"
+            },
+            {
+                "title": "Finding Her",
+                "location": "Bollywood songs/Finding Her (Jana Mere Sawalon Ka Manzar Tu)  Kushagra  Vanshika Kashyap  Bharath  UR Debut 3Cp2QTBZ.mp3"
+            },
+            {
+                "title": "Kesariya",
+                "location": "Bollywood songs/Kesariya - Brahmāstra  Ranbir Kapoor  Alia Bhatt  Pritam  Arijit Singh  Amitabh Bhattacharya4K BddP6.mp3"
+            }
+        ]
+    },
+    {
+        "name" : "Lana Del Rey",
+        "poster" : "Lana songs/Lana songs Cover.jpeg",
+        "songs" : [
+            {
+                "title" : "Diet Mountain Dew - Lana Del Rey",
+                "location" : "Lana songs/Diet Mountain Dew sEetXo3R-aM.mp3"
+            },
+            {
+                "title" : "Lana Del Rey - Brooklyn Baby",
+                "location" : "Lana songs/Lana Del Rey - Brooklyn Baby (Official Audio) T5xcnjAG8pE.mp3"
+            },
+            {
+                "title" : "Lana Del Rey - Chemtrails Over The Country Club",
+                "location" : "Lana songs/Lana Del Rey - Chemtrails Over The Country Club (Official Music Video) vBHild0PiTE.mp3"
+            },
+            {
+                "title" : "Lana Del Rey - Margaret",
+                "location" : "Lana songs/Lana Del Rey - Margaret (Audio) ft. Bleachers 2xtKhqbNBoY.mp3"
+            },
+            {
+                "title": "Lana Del Rey - Say Yes To Heaven",
+                "location": "Lana songs/Lana Del Rey - Say Yes To Heaven (Official Audio) MiAoetOXKcY.mp3"
+            },
+            {
+                "title": "Lana Del Rey - Summertime Sadness",
+                "location": "Lana songs/Lana Del Rey - Summertime Sadness (Official Music Video) TdrL3QxjyVw.mp3"
+            },
+            {
+                "title": "Lana Del Rey - West Coast",
+                "location": "Lana songs/Lana Del Rey - West Coast oKxuiw3iMBE.mp3"
+            },
+            {
+                "title": "Lana Del Rey - White Mustang",
+                "location": "Lana songs/Lana Del Rey - White Mustang (Official Music Video) F4ELqraXx-U.mp3"
+            }
+        ]
+    },
+    {
+        "name" : "The Weeknd",
+        "poster" : "The Weeknd/The Weeknd songs Cover.jpeg",
+        "songs" : [
+            {
+                "title" : "The Weeknd - Blinding Lights",
+                "location" : "The Weeknd/The Weeknd - Blinding Lights (Official Video) 4NRXx6U8ABQ.mp3"
+            },
+            {
+                "title" : "The Weeknd - Starboy",
+                "location" : "The Weeknd/The Weeknd - Starboy ft. Daft Punk (Official Video) 34Na4j8AVgA.mp3"
+            },
+            {
+                "title" : "The Weeknd, Ariana Grande - Die For You",
+                "location" : "The Weeknd/The Weeknd, Ariana Grande - Die For You (Remix  Lyric Video) YQ-qToZUybM.mp3"
+            },
+            {
+                "title" : "The Weeknd - One Of The Girls",
+                "location" : "The Weeknd/The Weeknd, JENNIE, Lily-Rose Depp - One Of The Girls (Official Video) Mx92lTYxrJQ.mp3"
+            },
+            {
+                "title" : "The Weeknd - Reminder",
+                "location" : "The Weeknd/The Weeknd - Reminder (Official Video) JZjAg6fK-BQ.mp3"
+            }
+        ]
+    },
+    {
+        "name": "Eminem songs",
+        "poster": "Eminem songs/Eminem-songs-cover.jpg",
+        "songs": [
+            {
+                "title": "Eminem - Mockingbird",
+                "location": "Eminem songs/Eminem - Mockingbird Official Music Video S9bCLPwzSC0.mp3"
+            },
+            {
+                "title": "Eminem - Superman",
+                "location": "Eminem songs/Eminem - Superman (Clean Version) ft. Dina Rae 8kYkciD9VjU.mp3"
+            },
+            {
+                "title": "Eminem - The Real Slim Shady",
+                "location": "Eminem songs/Eminem - The Real Slim Shady (Official Video - Clean Version) eJO5HU_7_1w.mp3"
+            },
+            {
+                "title": "Eminem - Venom",
+                "location": "Eminem songs/Eminem - Venom 8CdcCD5V-d8.mp3"
+            }
+        ]
+    },
+    {
+        "name" : "NCS",
+        "poster" : "NCS/NCS Cover.jpg",
+        "songs" : [
+            {
+                "title" : "Cartoon, Jéja - On & On",
+                "location" : "NCS/Cartoon, Jéja - On & On (feat. Daniel Levi)  Electronic Pop  NCS - Copyright Free Music K4DyBUG242c.mp3"
+            },
+            {
+                "title" : "Dirty Palm - Freakshow",
+                "location" : "NCS/Dirty Palm - Freakshow (feat. LexBlaze)  Future Bounce  NCS - Copyright Free Music 2jwj9wVx3mg.mp3"
+            },
+            {
+                "title" : "Electro-Light - Symbolism  Trap",
+                "location" : "NCS/Electro-Light - Symbolism  Trap  NCS - Copyright Free Music __CRWE-L45k.mp3"
+            },
+            {
+                "title" : "Egzod & Maestro Chives - Royalty",
+                "location" : "NCS/Egzod & Maestro Chives - Royalty (ft. Neoni)  Trap  NCS - Copyright Free Music C5fLxtJH2Qs.mp3"
+            }
+        ]
+    }
+]
