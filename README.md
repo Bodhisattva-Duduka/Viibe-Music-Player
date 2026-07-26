@@ -1,7 +1,14 @@
 # 🎧 Viibe Music Player
 
+### Live at: https://bodhisattva-duduka.github.io/Viibe-Music-Player/
+
 A simple and elegant **web-based music player** built using **HTML, CSS, and JavaScript**.  
 Viibe lets you enjoy your favorite tracks with a clean UI, smooth controls, and simple playlist handling.
+
+## 🖼️ Demo / Screenshots
+
+Example:  
+![Viibe Music Player Screenshot](image.png)
 
 ---
 
@@ -16,10 +23,7 @@ Viibe lets you enjoy your favorite tracks with a clean UI, smooth controls, and 
 
 ---
 
-## 🖼️ Demo / Screenshots
 
-Example:  
-![Viibe Music Player Screenshot](image.png)
 
 ---
 
