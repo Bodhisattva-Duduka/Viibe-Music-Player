@@ -1,5 +1,24 @@
 // Element selection
 
+// Hamburger sidebar toggle for mobile
+const hamburgerMenu = document.querySelector('.hamburger-menu');
+const sidebar = document.querySelector('.library');
+const sidebarOverlay = document.querySelector('.sidebar-overlay');
+
+if (hamburgerMenu) {
+    hamburgerMenu.addEventListener('click', () => {
+        sidebar.classList.toggle('sidebar-open');
+        sidebarOverlay.classList.toggle('active');
+    });
+}
+
+if (sidebarOverlay) {
+    sidebarOverlay.addEventListener('click', () => {
+        sidebar.classList.remove('sidebar-open');
+        sidebarOverlay.classList.remove('active');
+    });
+}
+
 // const song = document.body.querySelector('.audio')
 
 const homeButton = document.body.querySelector('.home button')
@@ -131,6 +150,9 @@ function seekbarOperations(song) {
 homeButton.addEventListener('click', () => {
     mainAlbums.style.display = 'block';
     playlistSongsMain.style.display = 'none';
+    // Close sidebar on mobile
+    if (sidebar) sidebar.classList.remove('sidebar-open');
+    if (sidebarOverlay) sidebarOverlay.classList.remove('active');
 })
 
 // load playlist
@@ -196,6 +218,10 @@ async function librarySongs() {
                 playlistName.style.color = '#34bd6b'
 
                 elementDiv.style.backgroundColor = '#3d3d3d'
+
+                // Close sidebar on mobile
+                if (sidebar) sidebar.classList.remove('sidebar-open');
+                if (sidebarOverlay) sidebarOverlay.classList.remove('active');
 
                 // inserting elements
 

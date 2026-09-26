@@ -47,7 +47,7 @@
     },
     {
         "name": "Bollywood songs",
-        "poster": "Bollywood songs/Bollywood-songs-cover.jpg",
+        "poster": "Bollywood songs/bollywood-songs-cover.jpg",
         "songs": [
             {
                 "title": "AGAR TUM SAATH HO",
@@ -141,7 +141,7 @@
     },
     {
         "name": "Eminem songs",
-        "poster": "Eminem songs/Eminem-songs-cover.jpg",
+        "poster": "Eminem songs/eminem-songs-cover.jpg",
         "songs": [
             {
                 "title": "Eminem - Mockingbird",
